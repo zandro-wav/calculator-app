@@ -6,5 +6,6 @@ public class Calculator {
         System.out.println("Addition: 5 + 3 = 8");
         System.out.println("Subtraction: 5 - 3 = 2");
         System.out.println("Multiplication: 5 * 3 = 15");
+        System.out.println("Division: 6 / 3 = 2");
     }
 }
